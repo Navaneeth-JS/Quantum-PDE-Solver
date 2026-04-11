@@ -1,0 +1,4 @@
+Method,VQLS Cost,Iterations,Fidelity,L2 error
+Classical exact (scipy),N/A,N/A,1.0000,0.0000
+VQLS theta* statevector,0.0353,341,0.8985,0.3229
+"HRF (N_trees=300, N_shots=100k)",--,--,0.8985,0.3228
